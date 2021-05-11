@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jordan Wilkerson. I am a 23 software development student. 
-During school, I am currently working for the YMCA in Child Development, where I have worked for 2 and a half years.
+My name is Jordan Wilkerson. I am a Software Developer with knowledge of Node.js, Javascript MySQL, MongoDB, C#.
+In my free time, I enjoy play card games and reading good fantasy books.
